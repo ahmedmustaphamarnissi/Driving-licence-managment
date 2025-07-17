@@ -7,3 +7,12 @@ M:\C#\DVLDBuisnessLayer\obj\Debug\DVLDBuisnessLayer.csproj.CoreCompileInputs.cac
 M:\C#\DVLDBuisnessLayer\obj\Debug\DVLDBuis.908794DB.Up2Date
 M:\C#\DVLDBuisnessLayer\obj\Debug\DVLDBuisnessLayer.dll
 M:\C#\DVLDBuisnessLayer\obj\Debug\DVLDBuisnessLayer.pdb
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\bin\Debug\DVLDBuisnessLayer.dll
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\bin\Debug\DVLDBuisnessLayer.pdb
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\bin\Debug\DVLDDataAccessLayer.dll
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\obj\Debug\DVLDBuisnessLayer.csproj.AssemblyReference.cache
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\obj\Debug\DVLDBuisnessLayer.csproj.CoreCompileInputs.cache
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\obj\Debug\DVLDBuis.908794DB.Up2Date
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\obj\Debug\DVLDBuisnessLayer.dll
+M:\C#\Driving License Managment Project\DVLDBuisnessLayer\obj\Debug\DVLDBuisnessLayer.pdb
