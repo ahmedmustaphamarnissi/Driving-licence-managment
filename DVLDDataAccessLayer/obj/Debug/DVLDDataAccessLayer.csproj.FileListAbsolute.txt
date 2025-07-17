@@ -1,0 +1,6 @@
+M:\C#\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.dll
+M:\C#\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+M:\C#\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+M:\C#\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+M:\C#\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.dll
+M:\C#\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb
