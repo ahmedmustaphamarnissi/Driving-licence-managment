@@ -10,3 +10,9 @@ M:\C#\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAc
 M:\C#\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
 M:\C#\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.dll
 M:\C#\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb
+M:\C#\Desktop Projects\Driving License Managment Project\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.dll
+M:\C#\Desktop Projects\Driving License Managment Project\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+M:\C#\Desktop Projects\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+M:\C#\Desktop Projects\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+M:\C#\Desktop Projects\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.dll
+M:\C#\Desktop Projects\Driving License Managment Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb
